@@ -55,7 +55,15 @@ Please refer to main.py for more optional arguments
 
 ### Image Classification Results
 
-![Results](docs/results.png)
+![Classification Results](docs/classification_results.png)
+
+### Object Detection Results on the VOC dataset
+
+![Detection Results](docs/detection_results.png)
+
+### Semantic Segmentation Results on the CityScapes dataset
+
+![Segmentation Results](docs/segmentation_results.png)
 
 ## Citation
 
